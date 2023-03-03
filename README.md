@@ -7,3 +7,6 @@ BE_AUTH_TOKEN=
 
 
 This can be improved in many ways. but i try to have it done as fast as i could.
+
+
+You can test it on : http://test-scandinavian.herokuapp.com/
